@@ -7,6 +7,8 @@
 
 > A curated list of resources for configuring, customizing, and deploying AI agents — from identity files to skill systems to persistent memory.
 
+🔗 **Looking for AI agent tools?** Check out the **[AI Agent Tools Directory](https://aiagenttools.dev)** — 291+ tools across 26 categories, updated daily.
+
 ---
 
 ## What Are AI Agent Configs?
