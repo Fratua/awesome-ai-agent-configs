@@ -116,6 +116,7 @@ Software for building, running, and managing AI agents.
 - **[Flowise](https://flowiseai.com/)** — Open-source drag-and-drop tool for building customized LLM flows and agents. Self-hostable.
 - **[Dust](https://dust.tt/)** — Platform for building and deploying custom AI agents for teams with managed data connections and tool use.
 - **[Claude Code](https://docs.anthropic.com/en/docs/claude-code)** — Anthropic's official CLI agent for coding tasks. Agentic coding with file editing, terminal access, and web search.
+- **[Future AGI](https://github.com/future-agi/future-agi)** — Open-source platform for agent simulation, evaluating, tracing, guarding, and auto-improving AI agents.
 
 ## 💰 Premium Resources
 
